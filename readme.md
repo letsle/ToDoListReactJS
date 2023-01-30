@@ -2,7 +2,7 @@
 
 ## Página desenvolvida durante a aula de React.JS para iniciantes com o Rodolfo Mori. <br><br>
 
-## [👉🏽👉🏽Clique aqui para acessar a página e faça a sua lista de tarefas 😉](https://letsle.github.io/ToDoListReactJS/)
+## [👉🏽👉🏽Clique aqui para acessar a página e faça a sua lista de tarefas 😉](https://to-do-list-react-4ck6ovts8-letsle.vercel.app/)
 
 ![preview](./img/project.PNG) <br><br>
 
